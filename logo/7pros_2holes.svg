@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="7pros_2holes.svg"
+   inkscape:export-filename="/home/gjum/uni/4.Sem/cit/7pros_2holes.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4361"
+       x="-0.045600003"
+       width="1.0912"
+       y="-0.045599997"
+       height="1.0912">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.855799"
+         id="feGaussianBlur4363" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="191.01387"
+     inkscape:cy="119.75296"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1364"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36219)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#757575;fill-opacity:1;stroke:none;stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72477064;filter:url(#filter4361)"
+       d="M 131.3208,798.30891 A 127.78429,127.78429 0 0 0 3.5356522,926.09407 127.78429,127.78429 0 0 0 131.3208,1053.8773 127.78429,127.78429 0 0 0 259.104,926.09407 127.78429,127.78429 0 0 0 131.3208,798.30891 Z m -74.248038,37.37695 145.968738,0 c 7.83474,0 14.14062,6.30589 14.14062,14.14063 0,7.83474 -6.30588,14.14258 -14.14062,14.14258 l -145.968738,0 c -7.83474,0 -14.14063,-6.30784 -14.14063,-14.14258 0,-7.83474 6.30589,-14.14063 14.14063,-14.14063 z m 119.158188,45.51368 c 2.71955,-0.10704 5.50151,0.57137 8,2.11718 6.66266,4.12217 8.7081,12.80415 4.58594,19.4668 l -76.79883,124.13088 c -4.12216,6.6626 -12.804128,8.7081 -19.466788,4.5859 -6.66265,-4.1222 -8.7081,-12.8041 -4.58593,-19.4668 L 164.76416,887.90266 c 2.57635,-4.16416 6.93421,-6.52474 11.46679,-6.70312 z"
+       id="path4174-7" />
+    <path
+       style="fill:#30cf8c;fill-opacity:1;stroke:none;stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72477064"
+       d="M 127.78516 -0.07421875 A 127.78429 127.78429 0 0 0 0 127.71094 A 127.78429 127.78429 0 0 0 127.78516 255.49414 A 127.78429 127.78429 0 0 0 255.56836 127.71094 A 127.78429 127.78429 0 0 0 127.78516 -0.07421875 z M 53.537109 37.302734 L 199.50586 37.302734 C 207.3406 37.302734 213.64648 43.608617 213.64648 51.443359 C 213.64648 59.278101 207.3406 65.585938 199.50586 65.585938 L 53.537109 65.585938 C 45.702367 65.585938 39.396484 59.278101 39.396484 51.443359 C 39.396484 43.608617 45.702367 37.302734 53.537109 37.302734 z M 172.69531 82.816406 C 175.41486 82.709375 178.19682 83.387782 180.69531 84.933594 C 187.35797 89.055759 189.40341 97.737738 185.28125 104.40039 L 108.48242 228.53125 C 104.36026 235.1939 95.678278 237.23935 89.015625 233.11719 C 82.352972 228.99502 80.307523 220.31304 84.429688 213.65039 L 161.22852 89.519531 C 163.80487 85.355373 168.16273 82.994792 172.69531 82.816406 z "
+       id="path4174"
+       transform="translate(0,796.36219)" />
+  </g>
+</svg>
